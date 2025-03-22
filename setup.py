@@ -1,9 +1,9 @@
 from setuptools import find_packages , setup
-#from typing import List
+from typing import List
 
-def get_requirements()->list[str]:
+def get_requirements()->List[str]:
     
-    reuiremets_list = list[str] = []
+    reuiremets_list : List[str] = []
     return reuiremets_list
 
 setup(
