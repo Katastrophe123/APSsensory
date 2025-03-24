@@ -1,5 +1,6 @@
 import sys
 import os
+
 from sensor.exception import SensorException
 from sensor.logger import logging
 
