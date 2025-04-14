@@ -1,0 +1,2 @@
+DATABASE_NAME = "KatastropheAPS"
+COLLECTION_NAME = "sensor"

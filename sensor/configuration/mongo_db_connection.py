@@ -1,4 +1,4 @@
-from dotenv import load_datenv
+from dotenv import load_dotenv
 import pymongo
 from sensor.constant.database import DATABASE_NAME
 import certifi
